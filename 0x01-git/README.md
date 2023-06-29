@@ -1,2 +1,2 @@
 My first commit
-REAME update
+README update
